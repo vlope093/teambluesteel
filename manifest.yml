@@ -6,3 +6,4 @@ applications:
   name: teambluesteel
   host: teambluesteel2
   disk_quota: 1024M
+  command: node app.js
