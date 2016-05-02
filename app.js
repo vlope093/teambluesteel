@@ -17,8 +17,8 @@ var app = express();
 
 // serve the files out of ./public as our main files
 app.use(express.static(__dirname + '/public'));
-app.set('views', __dirname + '/views');
-app.use('/style', express.static(path.join(__dirname, '/views/style')));
+//app.set('views', __dirname + '/views');
+//app.use('/style', express.static(path.join(__dirname, '/views/style')));
 
 
 // get the app environment from Cloud Foundry
