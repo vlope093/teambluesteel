@@ -19,7 +19,7 @@
 .vcard {
   position: relative;
   width: 100%;
-  max-width: 280px;
+  max-width: 286px;
   perspective: 800px;
   font-size: 24px;
   transition: transform .3s;
@@ -27,15 +27,15 @@
   transform: translateZ(0);
   -webkit-tap-highlight-color: transparent;
   display: inline-block;
-  margin-left: 45px;
-  margin-right: 45px;
+  margin-left: 4%;
+  margin-right: 4%;
   margin-bottom: 20px;
   margin-top: 30px;
 }
 
 .vcardContainer{
-  margin-left: 9em;
-  margin-right: 9em;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .middle h2 {
@@ -90,7 +90,7 @@
 .vcard .bio p {
   font-family: 'Lato', sans-serif;
   height: 250px;
-  width: 264px;
+  width: 252px;
 }
 .vcard .bio h1,
 .vcard .bio h2 {
