@@ -39,7 +39,7 @@
 }
 
 .middle h2 {
-  margin-top: 0em;
+  margin-top: 10px !important;
 }
 
 .heading {
@@ -88,12 +88,12 @@
 .vcard .bio h1,
 .vcard .bio h2,
 .vcard .bio p {
-  font-family: 'Lato', sans-serif;
   height: 250px;
   width: 264px;
 }
 .vcard .bio h1,
 .vcard .bio h2 {
+  font-family: 'Oswald', sans-serif;
   margin: 0;
   line-height: 140%;
   font-weight: 900;
@@ -106,6 +106,10 @@
 .vcard .bio h2 {
   font-size: 1em;
   height: 20px;
+}
+.vcard .bio p {
+  font-family: 'Lato', sans-serif;
+  
 }
 .vcard .bio img {
   display: block;
