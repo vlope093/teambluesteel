@@ -168,6 +168,11 @@ body {
   margin: 0px;
 }
 
+p, h1, h2 {
+  font-family: 'Oswald', sans-serif;
+  
+}
+
 .header img {
   width: 100% !important;
   height: 238px;
@@ -178,4 +183,9 @@ section {
   display: block;
   padding: 3rem 0;
   text-align: center;
+}
+
+.marginTop10px {
+  margin-top: 10px;
+  
 }
