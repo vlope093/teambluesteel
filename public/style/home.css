@@ -203,3 +203,9 @@ section {
   height: 100%;
   background: #24262E;
 }
+
+.center{
+  margin: auto;
+    width: 60%;
+    padding: 10px;
+}
