@@ -201,5 +201,11 @@ section {
 
 .galleryContainer{
   height: 100%;
-  background: #353030;
+  background: #24262E;
+}
+
+.center{
+  margin: auto;
+    width: 60%;
+    padding: 10px;
 }
